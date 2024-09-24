@@ -14,5 +14,4 @@ export interface Proxy {
 export let PROXYS = [{
         domain: easy-reverse-proxy-qsjo.vercel.app",
         url: "https://www.google.com/",
-        enable: true
     }];
