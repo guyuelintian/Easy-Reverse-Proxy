@@ -12,8 +12,8 @@ export interface Proxy {
 
 // 代理
 export let PROXYS = [{
-        domain: "www.example1.com",
-        url: "https://www.microsoft.com/",
+        domain: easy-reverse-proxy-seven.vercel.app",
+        url: "https://www.google.com/",
         enable: true
     },
     {
